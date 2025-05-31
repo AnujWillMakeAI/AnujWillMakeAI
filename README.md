@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Anuj Wadhwa
-- 👀 I’m interested in Coding and Physical Sciences
-- 🌱 I’m currently learning AI @ Robotics
-- 📫 How to reach me LinkedIN
-- 😄 Pronouns: geek and God
-- ⚡ Fun fact: Fire is Hot!!
+- Hi, I’m @Anuj Wadhwa
+- I’m interested in Coding, Physics, and finance
+- I’m currently learning AI & Robotics
+- How to reach me LinkeIn
+- Pronouns: bat/man
+"I think, therefore I am"
 
 <!---
 AnujWillMakeAI/AnujWillMakeAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
